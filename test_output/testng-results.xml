@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-25T22:00:12 ICT" name="Gradle suite" finished-at="2026-08-25T22:00:20 ICT" duration-ms="8336">
+    <groups>
+    </groups>
+    <test started-at="2026-08-25T22:00:12 ICT" name="Gradle test" finished-at="2026-08-25T22:00:20 ICT" duration-ms="8336">
+      <class name="testcase.TC01_Login">
+        <test-method signature="verify_login_successful()[pri:0, instance:testcase.TC01_Login@3f191845]" started-at="2026-08-25T22:00:12 ICT" name="verify_login_successful" finished-at="2026-08-25T22:00:20 ICT" duration-ms="8322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_successful -->
+      </class> <!-- testcase.TC01_Login -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
