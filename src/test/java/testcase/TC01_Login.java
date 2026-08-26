@@ -14,7 +14,7 @@ public class TC01_Login {
     @Test
     public void verify_login_successful() {
         //khởi tạo driver
-        DriverManager driverManager = DriverManagerFactory.getDriverManager("android");
+        DriverManager driverManager = DriverManagerFactory.getDriverManager("ios");
 
         driverManager.createDriver();
 
