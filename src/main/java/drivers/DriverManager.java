@@ -3,11 +3,11 @@ package drivers;
 import io.appium.java_client.AppiumDriver;
 
 public abstract class DriverManager {
-    protected AppiumDriver driver;
+    protected static AppiumDriver driver;
 
     public abstract void createDriver();
 
-    public AppiumDriver getDriver() {
+    public static AppiumDriver getDriver() {
         return driver;
     }
 }

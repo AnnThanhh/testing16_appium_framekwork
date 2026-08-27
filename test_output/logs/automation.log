@@ -1,0 +1,66 @@
+[2026-08-27 20:54:08] [INFO ] TC01_Login - BeforeSuite: Initialize ExtentReports
+[2026-08-27 20:54:08] [INFO ] TestListener - onStart
+[2026-08-27 20:54:08] [INFO ] TC01_Login - BeforeClass: Create driver instance
+[2026-08-27 20:54:11] [INFO ] TC01_Login - BeforeMethod: Create test in ExtentReports for method: verify_login_successful
+[2026-08-27 20:54:11] [INFO ] TestListener - onTestStart
+[2026-08-27 20:54:11] [INFO ] TC01_Login - Step 1: Click menu button
+[2026-08-27 20:54:12] [INFO ] TC01_Login - Step 2: Navigate to login page
+[2026-08-27 20:54:13] [INFO ] TC01_Login - Step 3: Enter credentials
+[2026-08-27 20:54:14] [INFO ] TC01_Login - Step 4: Click login button
+[2026-08-27 20:54:15] [INFO ] TC01_Login - Step 5: Verify that the user is redirected to the homepage after successful login
+[2026-08-27 20:54:16] [INFO ] TestListener - onTestSuccess: verify_login_successful - PASSED
+[2026-08-27 20:54:16] [INFO ] TC01_Login - AfterMethod: Test method verify_login_successful finished with status: 1
+[2026-08-27 20:54:16] [INFO ] TC01_Login - AfterClass: Quit driver instance
+[2026-08-27 20:54:17] [INFO ] TestListener - onFinish
+[2026-08-27 20:54:17] [INFO ] TC01_Login - AfterSuite: Flush ExtentReports
+[2026-08-27 21:26:42] [INFO ] TC01_Login - BeforeSuite: Initialize ExtentReports
+[2026-08-27 21:26:42] [INFO ] ConfigManager - Properties loaded successfully
+[2026-08-27 21:26:42] [INFO ] TestListener - onStart
+[2026-08-27 21:26:42] [INFO ] TC01_Login - BeforeClass: Create driver instance
+[2026-08-27 21:26:45] [INFO ] TC01_Login - BeforeMethod: Create test in ExtentReports for method: verify_login_successful
+[2026-08-27 21:26:45] [INFO ] TestListener - onTestStart
+[2026-08-27 21:26:45] [INFO ] TC01_Login - Step 1: Click menu button
+[2026-08-27 21:26:47] [INFO ] TC01_Login - Step 2: Navigate to login page
+[2026-08-27 21:26:47] [INFO ] TC01_Login - Step 3: Enter credentials
+[2026-08-27 21:26:49] [INFO ] TC01_Login - Step 4: Click login button
+[2026-08-27 21:26:49] [INFO ] TC01_Login - Step 5: Verify that the user is redirected to the homepage after successful login
+[2026-08-27 21:26:50] [INFO ] TestListener - onTestSuccess: verify_login_successful - PASSED
+[2026-08-27 21:26:50] [INFO ] TC01_Login - AfterMethod: Test method verify_login_successful finished with status: 1
+[2026-08-27 21:26:50] [INFO ] TC01_Login - AfterClass: Quit driver instance
+[2026-08-27 21:26:51] [INFO ] TestListener - onFinish
+[2026-08-27 21:26:51] [INFO ] TC01_Login - AfterSuite: Flush ExtentReports
+[2026-08-27 21:27:43] [INFO ] TC01_Login - BeforeSuite: Initialize ExtentReports
+[2026-08-27 21:27:43] [INFO ] ConfigManager - Properties loaded successfully
+[2026-08-27 21:27:43] [INFO ] TestListener - onStart
+[2026-08-27 21:27:43] [INFO ] TC01_Login - BeforeClass: Create driver instance
+[2026-08-27 21:27:43] [INFO ] TC01_Login - Platform from configure.properties: Android
+[2026-08-27 21:27:45] [INFO ] TC01_Login - BeforeMethod: Create test in ExtentReports for method: verify_login_successful
+[2026-08-27 21:27:45] [INFO ] TestListener - onTestStart
+[2026-08-27 21:27:46] [INFO ] TC01_Login - Step 1: Click menu button
+[2026-08-27 21:27:47] [INFO ] TC01_Login - Step 2: Navigate to login page
+[2026-08-27 21:27:48] [INFO ] TC01_Login - Step 3: Enter credentials
+[2026-08-27 21:27:49] [INFO ] TC01_Login - Step 4: Click login button
+[2026-08-27 21:27:50] [INFO ] TC01_Login - Step 5: Verify that the user is redirected to the homepage after successful login
+[2026-08-27 21:27:51] [INFO ] TestListener - onTestSuccess: verify_login_successful - PASSED
+[2026-08-27 21:27:51] [INFO ] TC01_Login - AfterMethod: Test method verify_login_successful finished with status: 1
+[2026-08-27 21:27:51] [INFO ] TC01_Login - AfterClass: Quit driver instance
+[2026-08-27 21:27:51] [INFO ] TestListener - onFinish
+[2026-08-27 21:27:51] [INFO ] TC01_Login - AfterSuite: Flush ExtentReports
+[2026-08-27 21:35:49] [INFO ] TC01_Login - BeforeSuite: Initialize ExtentReports
+[2026-08-27 21:35:49] [INFO ] ConfigManager - Properties loaded successfully
+[2026-08-27 21:35:49] [INFO ] TestListener - onStart
+[2026-08-27 21:35:49] [INFO ] TC01_Login - BeforeClass: Create driver instance
+[2026-08-27 21:35:49] [INFO ] TC01_Login - Platform from configure.properties: Android
+[2026-08-27 21:35:49] [INFO ] ConfigManager - Properties loaded successfully
+[2026-08-27 21:35:52] [INFO ] TC01_Login - BeforeMethod: Create test in ExtentReports for method: verify_login_successful
+[2026-08-27 21:35:52] [INFO ] TestListener - onTestStart
+[2026-08-27 21:35:52] [INFO ] TC01_Login - Step 1: Click menu button
+[2026-08-27 21:35:53] [INFO ] TC01_Login - Step 2: Navigate to login page
+[2026-08-27 21:35:54] [INFO ] TC01_Login - Step 3: Enter credentials
+[2026-08-27 21:35:56] [INFO ] TC01_Login - Step 4: Click login button
+[2026-08-27 21:35:56] [INFO ] TC01_Login - Step 5: Verify that the user is redirected to the homepage after successful login
+[2026-08-27 21:35:58] [INFO ] TestListener - onTestSuccess: verify_login_successful - PASSED
+[2026-08-27 21:35:58] [INFO ] TC01_Login - AfterMethod: Test method verify_login_successful finished with status: 1
+[2026-08-27 21:35:58] [INFO ] TC01_Login - AfterClass: Quit driver instance
+[2026-08-27 21:35:58] [INFO ] TestListener - onFinish
+[2026-08-27 21:35:58] [INFO ] TC01_Login - AfterSuite: Flush ExtentReports

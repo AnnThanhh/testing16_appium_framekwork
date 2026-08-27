@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="listeners.TestListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="Regression Test Suite">
+        <classes>
+            <class name="testcase.TC01_Login">
+                <methods>
+                    <include name="verify_login_successful"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
